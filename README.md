@@ -1,6 +1,6 @@
 # Simple-React-Application
-This is a very simple react application, containt a header, a content section and a footer
-[Go to the website](https://rasel22-simple-react-application.netlify.app/)
+This is a very simple react application, containt a header, a content section and a footer. <br>
+[Simple react application](https://rasel22-simple-react-application.netlify.app/ "Go to the website")
 
 # Objective
 This is for Assignment of Module-06 on the course of Mastering on React JS, Next JS & Prisma by ostad
