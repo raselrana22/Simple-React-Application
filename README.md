@@ -9,7 +9,7 @@ a) For this project use vite Vite Next Generation Frontend Tooling <br>
 b) Use Tailwind CSS for the design <br>
 c) Full responsive <br>
 
-# About the applicatio
+# About the application
 a)	There is a React component called App to serve as the main component of the application.<br>
 b)	Inside the App component, created three child components: Header, Content, and Footer.<br>
 c)	The Header component receive a prop for the title and display it as the heading of the page.<br>
