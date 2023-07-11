@@ -6,7 +6,7 @@ This is a very simple react application, containt a header, a content section an
 This is for Assignment of Module-06 on the course of Mastering on React JS, Next JS & Prisma by ostad
 # Features
 a) For this project use vite Vite Next Generation Frontend Tooling <br>
-b) Use Tailwind CSS for the desige <br>
+b) Use Tailwind CSS for the design <br>
 c) Full responsive <br>
 
 # About the applicatio
